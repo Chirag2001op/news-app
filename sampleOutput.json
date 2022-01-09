@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 253,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mat Smith",
+      "title": "The OnePlus 10 Pro is the first new phone of 2022",
+      "description": "First out of the gates in 2022, OnePlus has a new flagship for anyone already looking for a smartphone refresh. The company is holding back from revealing absolutely everything (well, most things), but that hasn't stopped leaks and rumors of a 6.7-inch displa…",
+      "url": "https://www.engadget.com/oneplus-10-pro-reveal-launch-date-specs-price-010013479.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/03ee3a30-6c8f-11ec-b5ab-a5cda59c31fa",
+      "publishedAt": "2022-01-04T01:00:13Z",
+      "content": "First out of the gates in 2022, OnePlus has a new flagship for anyone already looking for a smartphone refresh. The company is holding back from revealing absolutely everything (well, most things), b… [+747 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Why BlackBerry held the tiny keys to my heart",
+      "description": "The classic smartphone's life comes to an end on 4 January as the firm switches off support.",
+      "url": "https://www.bbc.co.uk/news/technology-59859817",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC63/production/_122572284_billwithblackberry.jpg",
+      "publishedAt": "2022-01-04T01:41:01Z",
+      "content": "Image source, Bill Wilson/BBC\r\nImage caption, \r\nMany vintage BlackBerry phones will stop working on Tuesday as the company turns off support for its operating system. For journalist, Bill Wilson it m… [+4877 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "S.Korean stocks fall as strong dollar, Omicron worries weigh - Reuters",
+      "description": "S.Korean stocks fall as strong dollar, Omicron worries weigh  Reuters",
+      "url": "https://www.reuters.com/markets/stocks/skorean-stocks-fall-strong-dollar-omicron-worries-weigh-2022-01-04/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+      "publishedAt": "2022-01-04T02:38:00Z",
+      "content": "SEOUL, Jan 4 (Reuters) - Round-up of South Korean financial markets:\r\n** South Korean shares fell on Tuesday, hurt by the dollar's strength as traders bet on a more aggressive rate hike by the Federa… [+1822 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Japanese shares track Wall Street's record highs in strong start to 2022 - Reuters",
+      "description": "Japanese shares jumped more than 1% on the first trading day of the year on Tuesday, led by strong performances in chip-related heavyweights and automakers, while Wall Street's overnight upbeat finish also boosted risk appetite.",
+      "url": "https://www.reuters.com/markets/europe/japanese-shares-track-wall-streets-record-highs-strong-start-2022-2022-01-04/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+      "publishedAt": "2022-01-04T02:55:00Z",
+      "content": "TOKYO, Jan 4 (Reuters) - Japanese shares jumped more than 1% on the first trading day of the year on Tuesday, led by strong performances in chip-related heavyweights and automakers, while Wall Street… [+2062 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Theranos jury draws a line between hype and lies - Reuters",
+      "description": "Defunct blood-testing startup Theranos is now a cautionary legal tale. A federal U.S. jury on Monday convicted founder Elizabeth Holmes of defrauding investors <a href=\"/world/us/us-jury-theranos-trial-cannot-agree-verdicts-all-charges-2022-01-03/\"> read more…",
+      "url": "https://www.reuters.com/breakingviews/theranos-jury-draws-line-between-hype-lies-2022-01-04/",
+      "urlToImage": "https://www.reuters.com/resizer/2dPpslRHqqlQh1W4bzacS8ncDTg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4K6527WO2BIGLEBZVMVRQFX2OY.jpg",
+      "publishedAt": "2022-01-04T02:19:00Z",
+      "content": "WASHINGTON, Jan 3 (Reuters Breakingviews) - Defunct blood-testing startup Theranos is now a cautionary legal tale. A federal U.S. jury on Monday convicted founder Elizabeth Holmes of defrauding inves… [+3674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Derrek Lee",
+      "title": "The new Withings Body Scan puts a scaled down health station in your home",
+      "description": "Withings latest smart scale takes health measurements up a notch.\n\nWhat you need to know\n\n\nBody Scan is the latest smart scale from Withings.\nThe scale features a retractable handle for advanced body composition measurements.\nBody Scan can provide readings fo…",
+      "url": "https://www.androidcentral.com/withings-body-scan-announce",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/12/withings-body-scan.jpg",
+      "publishedAt": "2022-01-04T01:00:02Z",
+      "content": "Withings is known for its impressive smart scales that can do more than just tell you your weight. Devices like the Withings Body Cardio smart scale can tell you your BMI, fat percentage, heart healt… [+2509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "CES 2022: Netgear Launches Nighthawk RAXE300 WiFi 6E Router",
+      "description": "Netgear today announced the launch of its latest Nighthawk router, the Nighthawk RAXE300 Tri-Band WiFi 6E, which offers the 6GHz band for WiFi 6E-compatible devices.\n\n\n\n\n\nThe RAXE300 offers up to eight WiFi streams and supports Gigabit+ WiFi speeds up to 7.8G…",
+      "url": "https://www.macrumors.com/2022/01/03/netgear-raxe300-wifi-6e-router/",
+      "urlToImage": "https://images.macrumors.com/t/kzf8tIaAMi1IBwHm5-Bypdd0RlY=/2000x/article-new/2022/01/netgear-nighthawk-raxe300.jpg",
+      "publishedAt": "2022-01-04T01:30:48Z",
+      "content": "Netgear today announced the launch of its latest Nighthawk router, the Nighthawk RAXE300 Tri-Band WiFi 6E, which offers the 6GHz band for WiFi 6E-compatible devices.\r\nThe RAXE300 offers up to eight W… [+1232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "St. Albert TODAY"
+      },
+      "author": "Canadian Press",
+      "title": "Many BlackBerry phones to stop working as company decommissions several services - St. Albert Today",
+      "description": "<ol><li>Many BlackBerry phones to stop working as company decommissions several services  St. Albert Today\r\n</li><li>Why Blackberry Is Discontinuing Service For Classic Devices  NBC News\r\n</li><li>Classic BlackBerry phones will stop working Jan. 4  CTV News\r\n…",
+      "url": "https://www.stalberttoday.ca/beyond-local/many-blackberry-phones-to-stop-working-as-company-decommissions-several-services-4917963",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/01/2022010311014-61d31f2607914b3c67b57bbajpeg.jpg;w=650;h=426;mode=crop",
+      "publishedAt": "2022-01-04T00:19:43Z",
+      "content": "Many of BlackBerry Ltd.'s mobile phones will stop reliably working on Tuesday after the company decommissions several of its services.\r\nThe Waterloo, Ont.-based business is decommissioning services f… [+3646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Rubén Chicharro",
+      "title": "OnePlus revela el diseño y los nuevos colores del OnePlus 10 Pro",
+      "description": "OnePlus ha confirmado el diseño del OnePlus 10 Pro, su nueva apuesta para competir contra los smartphones más potentes de fabricantes como Apple, Samsung o Xiaomi. El nuevo móvil de la marca, que llega antes de lo previsto en comparación con sus antecesores, …",
+      "url": "https://hipertextual.com/2022/01/oneplus-revela-el-diseno-y-los-nuevos-colores-del-oneplus-10-pro",
+      "urlToImage": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2022/01/oneplus-10-pro-01.jpg?fit=1500%2C1125&ssl=1",
+      "publishedAt": "2022-01-04T01:00:00Z",
+      "content": "OnePlus ha confirmado el diseño del OnePlus 10 Pro, su nueva apuesta para competir contra los smartphones más potentes de fabricantes como Apple, Samsung o Xiaomi. El nuevo móvil de la marca, que lle… [+2322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Samsung hits Apple TV with game streaming platforms coming to its TVs",
+      "description": "Samsung on Monday announced its new lineup of Smart TVs as part of the CES 2022 announcements. In addition to hardware improvements, the South Korean company is bringing game streaming platforms to its TVs for the first time in a bid to make them even more ap…",
+      "url": "https://9to5mac.com/2022/01/03/samsung-hits-apple-tv-with-game-streaming-platforms-coming-to-its-tvs/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Samsung-Gaming-Hub.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-01-04T02:02:59Z",
+      "content": "Samsung on Monday announced its new lineup of Smart TVs as part of the CES 2022 announcements. In addition to hardware improvements, the South Korean company is bringing game streaming platforms to i… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Sponsored Post",
+      "title": "9to5Rewards: 10% off ALOGIC BLAZE Hub and Dock + MacBook Pro Giveaway",
+      "description": "There’s still time to enter to win Apple’s latest M1 MacBook Pro courtesy of ALOGIC. For a limited time, you can also get 10% off the new ALOGIC Blaze Hub and Dock with code ALOGIC10. Head below for a closer look and to enter the giveaway now. \n more…\nThe pos…",
+      "url": "https://9to5mac.com/2022/01/03/9to5rewards-10-off-alogic-blaze-hub-and-dock-macbook-pro-giveaway/",
+      "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-01-04T01:08:22Z",
+      "content": "There’s still time to enter to win Apple’s latest M1 MacBook Pro courtesy of ALOGIC. For a limited time, you can also get 10% off the new ALOGIC Blaze Hub and Dock with code ALOGIC10. Head below for … [+1679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Potuck",
+      "title": "Withings unveils Body Scan that measures nerve activity through sweat, body composition, more",
+      "description": "Following up after its latest smartwatch launched at the end of 2021, Withings has announced its next major smart health device coming in 2022. Body Scan will offer advanced readings for body composition, nerve activity through sweat, vascular health, 6-lead …",
+      "url": "https://9to5mac.com/2022/01/03/withings-body-scan-nerve-activity-body-composition-more/",
+      "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/withings-body-scan-announcement.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-01-04T01:00:00Z",
+      "content": "Following up after its latest smartwatch launched at the end of 2021, Withings has announced its next major smart health device coming in 2022. Body Scan will offer advanced readings for body composi… [+4090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Ryan Whitwam",
+      "title": "AT&T's new Fusion 5G is a cheap phone with millimeter wave 5G",
+      "description": "But is it cheap enough?",
+      "url": "https://www.androidpolice.com/att-announces-fusion-5g-millimeter-wave/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/01/fusion.jpg",
+      "publishedAt": "2022-01-04T02:51:37Z",
+      "content": "AT&amp;T works with all the major smartphone OEMs like Samsung, Apple, and even Google, but there are some jobs that call for a carrier-branded budget phone. Jobs, apparently, like getting millimeter… [+1510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "CBS News Videos",
+      "title": "Apple becomes first $3 trillion company",
+      "description": "Apple became the first company in the world to be worth more than $3 trillion. It comes less than two years after Apple's market capitalization hit $2...",
+      "url": "https://news.yahoo.com/apple-becomes-first-3-trillion-000154944.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QaaeH7OYq3889g8yo9cNnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/hd/cp-video-transcode/prod/2022-01/04/61d390d44b8a6404ee333c47/61d390d44b8a6404ee333c48_o_U_v2.jpg",
+      "publishedAt": "2022-01-04T00:01:54Z",
+      "content": "A rabid Karen was caught on video calling her children and telling them this is your Asian family during a racist rant in a Las Vegas hotel parking lot. The video, posted by TikTok user @peachmeglado… [+382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Amber Neely)",
+      "title": "Class action lawsuit alleges Google pays Apple to stay out of the search engine market",
+      "description": "A class-action antitrust case has been filed that claims Apple and Google have violated U.S. antitrust laws in how they deal with each other, up to and including the payments that keeps Google's search engine as default on Apple products.The complaint claims …",
+      "url": "https://appleinsider.com/articles/22/01/04/class-action-lawsuit-alleges-google-pays-apple-to-stay-out-of-the-search-engine-market",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/46332-90287-header-xl.jpg",
+      "publishedAt": "2022-01-04T02:27:26Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+2391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Andrew O'Hara)",
+      "title": "Withings announces new Body Scan smart scale with integrated ECG",
+      "description": "Ahead of CES 2022, the Withings Body Scan has debuted, allowing users to monitor segmental body composition, heart rate, and vascular age with Apple Health integrations.Withings Body ScanThe all-new Body Scan scale features a tempered glass platform and a ret…",
+      "url": "https://appleinsider.com/articles/22/01/03/withings-announces-new-body-scan-smart-scale-with-integrated-ecg",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/46329-90284-Withings-Body-Scan-xl.jpg",
+      "publishedAt": "2022-01-04T01:03:46Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lisa Eadicicco",
+      "title": "Samsung's new Galaxy S21 FE will keep the Galaxy S21 alive at a more affordable price - CNET",
+      "description": "Samsung's Galaxy S21 FE has a triple-lens camera, 5G and the same chip as the Galaxy S21.",
+      "url": "https://www.cnet.com/tech/mobile/samsungs-new-galaxy-s21-fe-will-keep-the-galaxy-s21-alive-at-a-more-affordable-price/",
+      "urlToImage": "https://www.cnet.com/a/img/4k93QsDfHZEvuRlg0EtSrVEsxT8=/1200x630/2022/01/03/7c1a0f26-fb7d-4902-8509-fb7cdce63a2e/samsung-galaxy-s21-fe-cnet-review-2022-005.jpg",
+      "publishedAt": "2022-01-04T02:00:00Z",
+      "content": "Samsung's Galaxy S21 FE\r\nLisa Eadicicco/CNET\r\nThis story is part of CES, where CNET covers the latest news on the most incredible tech coming soon.\r\nSome companies discount older phones after releasi… [+10602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phandroid - News for Android"
+      },
+      "author": "Andrew",
+      "title": "OnePlus 10 Pro Design officially revealed",
+      "description": "In a move that comes as a bit of a surprise, OnePlus is revealing the design of the OnePlus 10 Pro. The phone has been highly-anticipated as it's expected to become one of the best Android phones of the year. But in true OnePlus fashion, the company is offeri…",
+      "url": "https://phandroid.com/2022/01/03/oneplus-10-pro-design-officially-revealed/",
+      "urlToImage": "https://phandroid.com/wp-content/uploads/2021/12/oneplus-10-pro-4-640x577.jpg",
+      "publishedAt": "2022-01-04T01:00:39Z",
+      "content": "In a move that comes as a bit of a surprise, OnePlus is revealing the design of the OnePlus 10 Pro. The phone has been highly-anticipated as it’s expected to become one of the best Android phones of … [+1688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "Joe Wituschek",
+      "title": "Report: Apple sold 40 million iPhone 13 models over the holiday season",
+      "description": "What you need to know\n\n\nWedbush analyst Daniel Ives is out with a new research note.\nIves believes that Apple sold at least 40 million iPhone 13 models during the holidays.\nThe analyst thinks that demand will still outweigh supply well into 2022.\n\n\niPhone 13 …",
+      "url": "https://www.imore.com/report-apple-sold-40-million-iphone-13-models-over-holiday-season",
+      "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/iphone-13-review-hero.jpeg",
+      "publishedAt": "2022-01-04T01:41:53Z",
+      "content": "Apple seems to have another huge hit with the iPhone 13.\r\nIn a research note from Wedbush analyst Daniel Ives, the analyst estimates that the company sold over 40 million units of the iPhone 13 lineu… [+1048 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez,Nariko Mizoguchi",
+      "title": "サムスンの2022年スマートテレビはクラウドゲーム、ビデオチャット、NFTまでサポート",
+      "description": "CESの正式な開幕に先立ち、Samsung（サムスン）は米国時間1月3日、次世代スマートテレビのビジョンを明らかにした。クラウドベースのゲームサービス、テレビを見ながらのビデオチャット、さらにはNFT（非代替性トークン）まで搭載している。同社によると、2022年のスマートテレビには新しい「スマートハブ」機能が搭載され、メディア、新しいゲーミングハブによるゲーム「アンビエント」（テレビを使用していないときアート、写真、その他の情報をテレビに表示する<a target=\"_blank\" href=\"https://w…",
+      "url": "https://jp.techcrunch.com/2022/01/04/2022-01-03-samsungs-2022-smart-tvs-to-support-cloud-gaming-video-chat-and-even-nfts/",
+      "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2022/01/Samsung.jpeg?w=1024",
+      "publishedAt": "2022-01-04T01:00:13Z",
+      "content": "CESSamsung13NFT2022\r\nTizenSamsung Gaming HubSamsung13NVIDIA GeForce NOWGoogleStadiaUtomik\r\nSamsung TVYouTube\r\n20224K8KHDR10+ GAMING120HzHDRPCHDRQ70Neo QLEDSamsung\r\nSamsung2022\r\nSamsung\r\nSamsungLG2021… [+410 chars]"
+    }
+  ]
+}
