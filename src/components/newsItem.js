@@ -5,10 +5,10 @@ export default function NewsItem(props) {
   return (
     <div>
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={props.imgURL} />
+        <Card.Img variant="top" src={props.imgURL?props.imgURL:" "} />
         <Card.Body>
-          <Card.Title>{props.title.slice(0,45)}</Card.Title>
-          <Card.Text>{props.description.slice(0,88)}</Card.Text>
+          <Card.Title>{props.title?props.title.slice(0,45):" "}</Card.Title>
+          <Card.Text>{props.description?props.description.slice(0,88):" "}</Card.Text>
           <Button href={props.newsUrl} variant="primary" className="btn-sm" >Read More</Button>
         </Card.Body>
       </Card>
