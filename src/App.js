@@ -1,12 +1,12 @@
 import React from 'react'
 import Navbar from './components/navbar';
-import News1 from './components/news1';
+import News from './components/news';
 
 function App() {
   return (
    <div>
     <Navbar/>
-    <News1/>
+    <News/>
    </div>
   );
 }

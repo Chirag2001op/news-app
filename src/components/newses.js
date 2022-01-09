@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import NewsItem from "./newsItem";
 
-export class News1 extends Component() {
+export class newses extends Component() {
     articles = [
         {
           "source": {
@@ -138,4 +138,4 @@ export class News1 extends Component() {
       }
   }
 
-  export default News1
+  export default newses
