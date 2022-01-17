@@ -29,46 +29,29 @@ import PropTypes from 'prop-types'
         }
       }
 
+      async updateNews(){
+        const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ee33cb3f8b6c40ca8f89ba3fd3a0c692&page=${this.state.page}&pageSize=${this.props.pageSize}`
+        let data = await fetch(url)
+        this.setState({loading:true})
+        let parsedData = await data.json()
+        this.setState({
+          articles: parsedData.articles,
+          loading:false
+        })
+      }
+
       async componentDidMount(){
-          console.log("cdm")
-          let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ee33cb3f8b6c40ca8f89ba3fd3a0c692&pageSize=${this.props.pageSize}`
-          let data = await fetch(url)
-          this.setState({loading:true})
-          let parsedData = await data.json()
-          this.setState({articles: parsedData.articles,
-                         totalResults:parsedData.totalResults,
-                         loading:false
-            })
+           this.updateNews();
       }
 
       handlePrevClick = async()=>{
-        console.log("previous")
-        
-          let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ee33cb3f8b6c40ca8f89ba3fd3a0c692&page=${this.state.page-1}&pageSize=${this.props.pageSize}`
-            let data = await fetch(url)
-            this.setState({loading:true})
-            let parsedData = await data.json()
-            this.setState({
-              page: this.state.page - 1,
-              articles: parsedData.articles,
-              loading:false
-            })
-        
+        this.setState({page: this.state.page - 1})
+        this.updateNews();        
       }
       
       handleNextClick = async ()=>{
-        console.log("next")
-        if(!(this.state.page>=Math.ceil(this.state.totalResults/this.props.pageSize))){
-          let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ee33cb3f8b6c40ca8f89ba3fd3a0c692&page=${this.state.page+1}&pageSize=${this.props.pageSize}`
-            let data = await fetch(url)
-            this.setState({loading:true})
-            let parsedData = await data.json()
-            this.setState({
-              page: this.state.page + 1,
-              articles: parsedData.articles,
-              loading:false
-            })
-        }
+        this.setState({page: this.state.page + 1})
+        this.updateNews(); 
       }
 
       render(){
@@ -83,7 +66,7 @@ import PropTypes from 'prop-types'
                 return (
                     
                 <div className="col-md-4 my-4" key={element.url}>
-                  <NewsItem  title={element.title} description={element.description} imgURL={element.urlToImage}  newsUrl={element.url} />
+                  <NewsItem  title={element.title} description={element.description} imgURL={element.urlToImage}  newsUrl={element.url} author={element.author} time={element.publishedAt} source={element.source.name} />
                 </div>
                 ) 
                 })}
