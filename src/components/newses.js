@@ -27,6 +27,7 @@ import PropTypes from 'prop-types'
             loading:false,
             page:1
         }
+             
       }
 
       async updateNews(){
