@@ -16,14 +16,15 @@ export default function NewsItem(props) {
           }
         />
         <Card.Body>
+        <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{zIndex:'1', fontSize: '.60em', left: '90%' }} >
+              {props.source}
+             
+            </span>
           <Card.Title>
             {props.title
               ? props.title.slice(0, 45)
               : "Title unavailable for now "}
-            <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{zIndex:'1', fontSize: '.55em', left: '90%' }} >
-              {props.source}
-             
-            </span>
+           
           </Card.Title>
           <Card.Text>
             {props.description
