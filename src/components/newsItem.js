@@ -2,7 +2,7 @@ import React from "react";
 import { Card, Button } from "react-bootstrap";
 
 export default function NewsItem(props) {
-  const time =`${new Date(props.time).toGMTString()}`
+  const time = `${new Date(props.time).toGMTString()}`;
   return (
     <div>
       <Card>
@@ -16,15 +16,16 @@ export default function NewsItem(props) {
           }
         />
         <Card.Body>
-        <span class="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{zIndex:'1', fontSize: '.60em', left: '90%' }} >
-              {props.source}
-             
-            </span>
+          <span
+            class="position-absolute top-0 translate-middle badge rounded-pill bg-danger"
+            style={{ zIndex: "1", fontSize: ".60em", left: "90%" }}
+          >
+            {props.source}
+          </span>
           <Card.Title>
             {props.title
               ? props.title.slice(0, 45)
               : "Title unavailable for now "}
-           
           </Card.Title>
           <Card.Text>
             {props.description
